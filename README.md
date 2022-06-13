@@ -3,49 +3,60 @@
 
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp; 📲 +65 XXXX XXXX
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/destsh/) 
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/) -->
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://media-exp1.licdn.com/dms/image/C5103AQEoAaSyIAKPsw/profile-displayphoto-shrink_200_200/0/1563545861342?e=1660780800&v=beta&t=TzYxNEBCez3772ZX8brPCRmRmg0dNyb8woLz6CmTVuU)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I'm Desmond Teo, an experienced professional in product operations, project management, technical, product and customer support across diverse and fast-paced environments. 
+
+In my last role as regional product operations, I enjoyed collaborating with various product, operations, marketing and tech teams within Lazada and Alibaba to drive change, improve key issues, deliver performance and increase customer experience using technology.
+
+Competencies: 
+Project Management, Product Operations, Documentation & Information Management, Technical Assessment & Troubleshooting, Process Improvement, Customer Service & Support
 
 
 <!-- Add link to the sections -->
-[Experience](#experience) <br>
-[Education](#education) <br>
-[Projects](#projects) <br>
-[Featured](#featured) <br> 
+
+⦿ [Experience](#experience) <br>
+⦿ [Education](#education) <br>
+⦿ [Projects](#projects) <br>
+⦿ [Featured](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+LAZADA, 2018 – 2022
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
-
+Regional Manager, Product Operations
+<ul>
+<li> Managed regional customer care projects, coordinated new product functionality launches, UAT and
+documentation.</li>
+&nbsp <li>Analyzed performance of new product functionality launches, collect user feedback and provide assessment on
+the impact to operations.</li>
+<li> Advised country teams on tools & products used in daily operations across customer channels;
+  (CRM, Social Customer Service, Social Listening, HelpCenter, ChatBot & Live Chat).</li>
+</ul>
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+<ul>
+  <li>Bachelor of Science, Computing
+    University of Portsmouth, Portsmouth, United Kingdom </li>
+  </ul>
 
 <!-- EDUCATION Section Ends -->
 
@@ -53,10 +64,10 @@ Engineering Graduate 2010-14, First Division
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
+<!--[Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
 
-<!-- Add your details -->
+<!-- Add your details
 
 #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
@@ -72,14 +83,25 @@ Regression is a supervised learning technique which helps in finding the correla
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
-<!-- PROJECTS Section Ends -->
+<!-- PROJECTS Section Ends
 
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+<ul>
+<li> Project Management Professional (PMP), 3131281 </li>
+<li> Certified Scrum Product Owner (CSPO), 1546072 </li>
+<li> Certified Scrum Master (CSM), 1547044 </li>
+</ul>
 
 ##### Achievements
-Star performer of the year at Accenture
+
+<ul>
+  <li> Best Use of CX Technology - Silver Award 2020</li>
+  <li> Issued by CX Asia Excellence Sept 2020
+
+This award recognizes companies who have made the best use of technologies as a core strategy in their commitment to elevate the overall system efficiency, resources management and Customer Service quality. The connectivity and harmonization of the technologies used are also taken into consideration. 
+</li>
+</ul>
 <!-- FEATURED Section Ends -->
